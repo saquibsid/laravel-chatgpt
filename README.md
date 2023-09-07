@@ -3,11 +3,11 @@
 
 2. Copy .env.example file and create new with .env
 
-3. Replace the following keys value in the env file
-    DB_DATABASE=yourdbname
-    DB_USERNAME=dbusername(root for eg.)
-    DB_PASSWORD=your db password if any otherwise leave it blank
-    CHAT_GPT_API_KEY=yourchatgptapi key 
+3. Replace the following keys value in the env file<br/>
+    <p>DB_DATABASE=yourdbname</p>
+    <p>DB_USERNAME=dbusername(root for eg.)</p>
+    <p>DB_PASSWORD=your db password if any otherwise leave it blank</p>
+    <p>CHAT_GPT_API_KEY=yourchatgptapi key</p> 
 
 4. Run the composer update to install all the dependencies.
 
